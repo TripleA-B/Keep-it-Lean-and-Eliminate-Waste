@@ -1,3 +1,5 @@
+## Check out this guide along with others at my new website [Road to Cloud](https://www.theroadtocloud.com)!
+
 # Keep it Lean and Eliminate Waste
 ![Keep it Lean and Eliminate Waste](https://github.com/TripleA-B/keep-it-lean-and-eliminate-waste/blob/main/images/0001.jpg)
 ![Keep it Lean and Eliminate Waste](https://github.com/TripleA-B/keep-it-lean-and-eliminate-waste/blob/main/images/0002.jpg)
